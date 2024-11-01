@@ -1,0 +1,15 @@
+name: foam
+channels:
+  - conda-forge
+dependencies:
+  - dask
+  - dask-image
+  - scikit-image
+  - zarr
+  - jupyterlab
+  - ipywidgets
+  - dask-labextension
+  - matplotlib-scalebar
+  - openpyxl
+  - tqdm
+  - porespy
