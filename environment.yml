@@ -9,6 +9,7 @@ dependencies:
   - jupyterlab
   - ipywidgets
   - dask-labextension
+  - seaborn
   - matplotlib-scalebar
   - openpyxl
   - tqdm
