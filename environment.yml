@@ -1,16 +1,14 @@
 name: foam
-channels:
-  - conda-forge
 dependencies:
-  - dask
-  - dask-image
-  - scikit-image
-  - zarr
   - jupyterlab
   - ipywidgets
+  - tqdm
+  - dask
+  - dask-image
   - dask-labextension
+  - scikit-image
+  - zarr
   - seaborn
   - matplotlib-scalebar
   - openpyxl
-  - tqdm
   - porespy
