@@ -2,6 +2,7 @@ name: foam
 channels:
   - conda-forge
 dependencies:
+  - python=3.12
   - jupyterlab
   - ipywidgets
   - scikit-image=0.22
@@ -11,3 +12,6 @@ dependencies:
   - seaborn
   - matplotlib-scalebar
   - openpyxl
+  - pip
+  - pip:
+    - pyparadios
