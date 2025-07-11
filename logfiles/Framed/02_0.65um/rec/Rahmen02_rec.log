@@ -116,3 +116,6 @@ HU Calibration=OFF
 BMP LUT=0
 Cone-beam Angle Horiz.(deg)=8.789732
 Cone-beam Angle Vert.(deg)=5.866211
+[File name convention]
+Filename Index Length=8
+Filename Prefix=Rahmen02_rec
