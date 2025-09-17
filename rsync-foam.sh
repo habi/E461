@@ -4,7 +4,7 @@ echo "2214 --> archive"
 rsync $options --exclude="*.png" --exclude="*.mp4" --exclude="*.ORSSession" --exclude="*_rectmp.log" ~/2214/"$folder"/ ~/research_storage_uct/Archiv_Tape/"$folder"/
 # echo "2214 --> Alinas folder somewhere"
 # rsync $options ~/2214/"$folder"/ ~/SOMEWHERE
-echo "2214 (everything but projections) -> anaklin25 FastSSD"
+echo "2214 (everything but projections) -> anamyct05 FastSSD"
 rsync $options --exclude="*.?if" ~/2214/"$folder"/ /media/habi/Fast_SSD/"$folder"/
 echo "2214 (everything but projections) -> anaklin04 FastSSD"
 rsync $options --exclude="*.?if" ~/2214/"$folder"/ ~/anaklin04-f/"$folder"/
