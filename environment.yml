@@ -7,11 +7,10 @@ dependencies:
   - ipywidgets
   - scikit-image=0.22
   - porespy
+  - pypardiso
   - dask-image
   - dask-labextension
+  - zarr
   - seaborn
   - matplotlib-scalebar
   - openpyxl
-  - pip
-  - pip:
-    - pyparadios
