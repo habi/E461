@@ -14,3 +14,5 @@ dependencies:
   - seaborn
   - matplotlib-scalebar
   - openpyxl
+  - pyqt
+  - napari
