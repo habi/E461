@@ -119,3 +119,6 @@ HU Calibration=OFF
 BMP LUT=0
 Cone-beam Angle Horiz.(deg)=40.247402
 Cone-beam Angle Vert.(deg)=26.109333
+[File name convention]
+Filename Index Length=8
+Filename Prefix=blue_rec
